@@ -1,0 +1,2 @@
+to run backend------->\Users\1rn17\Desktop\ecommerce\e-commerce\mystore-front-end-master\mystore-back-end-master> yarn start
+to run frontend------>\Users\1rn17\Desktop\ecommerce\e-commerce\mystore-front-end-master\mystore-front-end-master> yarn start
